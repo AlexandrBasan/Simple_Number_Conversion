@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convert number systems</string>
+<string name="convert_label">Convert</string>
+<string name="clear_label">Clear</string>
+<string name="from_txt">From:</string>
+<string name="to_txt">To:</string>
+<string name="result_txt_label">Result:</string>
+<string name="hint_txt">Insert value</string>
+<string name="about">About</string>
+
+<string name="admob_publisher_id">a1519dee6d37e42</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<array name ="numerals">
+<item>Dec</item>
+<item>Hex</item>
+<item>Bin</item>
+<item>Oct</item>
+</array>
+</resources>

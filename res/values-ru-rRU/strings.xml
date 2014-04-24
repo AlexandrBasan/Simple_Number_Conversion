@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Конвертер систем счисления</string>
+<string name="convert_label">Конвертировать</string>
+<string name="clear_label">Очистить</string>
+<string name="from_txt">Из:</string>
+<string name="to_txt">В:</string>
+<string name="result_txt_label">Результат:</string>
+<string name="hint_txt">Вставьте значение</string>
+<string name="about">О нас</string>
+
+<string name="admob_publisher_id">a1519dee6d37e42</string>
+</resources>
